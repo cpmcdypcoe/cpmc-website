@@ -1,0 +1,14 @@
+# Node Modules
+node_modules
+
+# Package Files
+package-lock.json
+
+# Environment Files
+.env
+
+# Build Files
+.next
+
+# Visual Studio Code Settings JSON File
+.vscode

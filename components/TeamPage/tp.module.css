@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&family=Paytone+One&display=swap');
+
+.sirContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.sirDetails {
+  color: #ffffff;
+  font-size: 18px;
+  margin-top: 40px;
+  margin-bottom: 95px;
+  padding: 0 100px;
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+  flex-basis: 50%;
+  text-align: center;
+}
+
+.team_section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  padding: 70px;
+  padding-top: 20px;
+}
+
+.heading {
+  /* color: #469697; */
+  font-size: 50px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: 'Passion One', cursive;
+}
+
+.red {
+  color: #f32053;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 95px;
+  padding: 0 100px;
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+
+.team {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: 'Inter', sans-serif;
+}
+.imgDiv{
+  padding: 2rem 0rem;
+  margin-bottom: 1rem;
+}
+.image{
+  width: 70%;
+  border-radius: 1rem;
+  object-fit: cover;
+}
+
+.heading2 {
+  margin: 50px 0 100px 0;
+  color: #fff;
+  font-size: 50px;
+  font-family: 'Passion One', cursive;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 1000px) {
+  .heading,
+  .heading2 {
+    font-size: 40px;
+    white-space: nowrap;
+  }
+
+  .sirDetails {
+    flex-basis: 70%;
+    margin-top: 0px;
+    padding: 0 0px;
+  }
+
+  .sirContainer {
+    flex-direction: column-reverse;
+    margin-top: 4em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .team_section {
+    padding: 30px;
+  }
+
+  .heading,
+  .heading2 {
+    font-size: 20px;
+  }
+
+  .para {
+    padding: 20px;
+    font-size: 16px;
+    margin-bottom: 35px;
+    width: 90%;
+  }
+
+  .sirDetails {
+    padding: 0;
+    flex-basis: 70%;
+    font-size: 16px;
+    margin-top: 0px;
+  }
+
+  .sirContainer {
+    flex-direction: column-reverse;
+    margin-top: 4em;
+  }
+}

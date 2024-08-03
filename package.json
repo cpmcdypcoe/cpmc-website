@@ -1,0 +1,40 @@
+{
+  "name": "cpmcclub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,json}' --config ./.prettierrc.json"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.3.0",
+    "@react-three/drei": "^9.11.3",
+    "@react-three/fiber": "^8.0.19",
+    "@sendgrid/mail": "^7.7.0",
+    "axios": "^1.5.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "copy-text-to-clipboard": "^3.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.5",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-screentype-hook": "^1.0.18",
+    "react-toastify": "^9.0.3",
+    "swiper": "^8.2.4",
+    "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.11",
+    "tailwindcss": "^3.0.24"
+  }
+}
