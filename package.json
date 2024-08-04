@@ -25,6 +25,7 @@
     "react-dom": "18.1.0",
     "react-screentype-hook": "^1.0.18",
     "react-toastify": "^9.0.3",
+    "sharp": "^0.33.4",
     "swiper": "^8.2.4",
     "three": "^0.141.0"
   },
