@@ -70,6 +70,13 @@
   object-fit: cover;
 }
 
+.image2k24{
+  width: 70%;
+  border-radius: 1rem;
+  object-fit: cover;
+  object-position: 100% 30%;
+}
+
 .heading2 {
   margin: 50px 0 100px 0;
   color: #fff;
