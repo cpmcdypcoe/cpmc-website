@@ -23,7 +23,7 @@ import prajwal  from '../Data/members/dj.jpg'
 
 import khushi from '../Data/members/khushi.jpg'
 import kishor from '../Data/members/kishor.jpg'
-import uday from '../Data/members/uday.png'
+import uday from '../Data/members/uday.jpg'
 import aniket from '../Data/members/aniket.jpg'
 import parth from '../Data/members/parth.jpeg'
 import ritika from '../Data/members/ritika.jpg'
