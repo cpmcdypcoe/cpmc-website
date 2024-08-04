@@ -3,7 +3,7 @@ import classes from './tp.module.css';
 import Card from './Card';
 import mannu from '../assets/mannu.jpeg';
 import team from '../assets/Team/Team.JPG'
-import { Admiral, commander, spankars ,sinisters,lanisters,endeavours, ViceAdmmiral, malignant, communityMembers} from '../assets/Team/Data/2k24Data.js';
+import { Admiral, commander, spankars , lanisters, endeavours, ViceAdmmiral, malignant, communityMembers} from '../assets/Team/Data/2k24Data.js';
 import Image from 'next/image';
 
 const sirKaData = {
@@ -15,7 +15,7 @@ const sirKaData = {
   github: 'https://www.linkedin.com/in/dr-manish-sharma-2bb7404a/'
 };
 
-const TeamPage = () => {
+const Team2K24Page = () => {
   return (
     <>
       <div className={classes.team_section}>
@@ -72,7 +72,7 @@ const TeamPage = () => {
           ))}
         </div>
         <h1 className={classes.heading2}>
-          TEAM <span className={classes.red}> MALIGNANT</span>
+          TEAM <span className={classes.red}> SINISTERS</span>
         </h1>
         <div className={classes.team}>
           {malignant.map((m, i) => (
@@ -108,4 +108,4 @@ const TeamPage = () => {
   );
 };
 
-export default TeamPage;
+export default Team2K24Page;

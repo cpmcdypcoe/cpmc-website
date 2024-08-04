@@ -1,11 +1,9 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import { Footer, Navbar, TeamPage } from '../../components';
-import styles from '../../styles/Home.module.css';
-import Team2K24Page from '../../components/TeamPage/Team2k24';
-import Teams from '../../components/Teams/Teams';
+import styles from '../../../styles/Home.module.css';
+import { Footer, Navbar, TeamPage } from '../../../components';
 
-const Team = () => {
+const Team2K23 = () => {
   return (
     <>
       <Head>
@@ -19,11 +17,10 @@ DYPCOE, Pune."
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <Teams />
       <TeamPage />
       <Footer />
     </>
   );
 };
 
-export default Team;
+export default Team2K23;
