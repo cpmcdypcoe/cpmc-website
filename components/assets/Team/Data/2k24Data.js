@@ -19,7 +19,7 @@ import jd from '../Data/members/jd.jpg'
 import dinesh from '../Data/members/dinesh.png'
 import sanjana from '../Data/members/sanjana.jpg'
 import jagdish from '../Data/members/jagdish.jpg'
-import prajwal  from '../Data/members/dj.jpg'
+import prajwal  from '../Data/members/prajwal.jpg'
 
 import khushi from '../Data/members/khushi.jpg'
 import kishor from '../Data/members/kishor.jpg'
