@@ -33,7 +33,7 @@ const EventSlider = () => {
           Recuritment for batch <span>2k24 (Phase 1)</span>
           </h1>
           <h3>
-            Where Ideas Turn into Code: Join us for an Amazing Coding Journey ahead
+            Where Ideas Turn into Code: Join us for an Amazing Coding Journey ahead.
           </h3>
           <Link href="events">
             <button className={classes.btn}>
