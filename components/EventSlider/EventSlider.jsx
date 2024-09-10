@@ -14,7 +14,6 @@ import recuritment24img from './Images/recuritment24.png';
 import eventImg from './Images/event.png';
 import classes from './eventSlider.module.css';
 import 'swiper/css/effect-cards';
-import { Zoom, Autoplay, Navigation, Pagination } from 'swiper';
 
 const EventSlider = () => {
   return (
