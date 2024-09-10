@@ -10,7 +10,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/zoom';
 
 import img from './Images/recruitment.png';
-import recuritment24img from './Images/recruitment24.png';
+import recuritment24img from './Images/recuritment24.png';
 import eventImg from './Images/event.png';
 import classes from './eventSlider.module.css';
 import 'swiper/css/effect-cards';
