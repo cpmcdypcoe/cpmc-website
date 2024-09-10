@@ -10,6 +10,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/zoom';
 
 import img from './Images/recruitment.png';
+import recuritment24img from './Images/recruitment24.png';
 import eventImg from './Images/event.png';
 import classes from './eventSlider.module.css';
 import 'swiper/css/effect-cards';
@@ -25,14 +26,14 @@ const EventSlider = () => {
       </div>
       <div className={classes.eventmaindiv}>
         <Link href="events" className={classes.imagediv}>
-          <Image style={{ cursor: 'pointer' }} alt="eventabcde" src={eventImg} objectFit="cover" className={classes.posterimage} />
+          <Image style={{ cursor: 'pointer' }} alt="eventabcde" src={recuritment24img} objectFit="cover" className={classes.posterimage} />
         </Link>
         <div className={classes.eventcontentdiv}>
           <h1>
-          Code Drella <span>2k24</span>
+          Recuritment for batch <span>2k24 (Phase 1)</span>
           </h1>
           <h3>
-            Competitive Programming Talk Show featuring the brilliant Priyansh Agarwal.
+            Where Ideas Turn into Code: Join us for an Amazing Coding Journey ahead
           </h3>
           <Link href="events">
             <button className={classes.btn}>
