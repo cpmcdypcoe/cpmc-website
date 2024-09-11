@@ -241,6 +241,7 @@ const EventRegistration = ({ event_id }) => {
             <option>Choose your division</option>
             <option>A</option>
             <option>B</option>
+            <option>C</option>
           </select>
         </div>
         {eventDetails.is_competition_form ? (
