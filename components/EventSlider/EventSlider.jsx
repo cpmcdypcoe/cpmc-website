@@ -11,6 +11,7 @@ import 'swiper/css/zoom';
 
 import img from './Images/recruitment.png';
 import recuritment24img from './Images/recuritment24.png';
+import dsaBootcamp from './Images/dsaBootcamp.png';
 import eventImg from './Images/event.png';
 import classes from './eventSlider.module.css';
 import 'swiper/css/effect-cards';
@@ -25,14 +26,14 @@ const EventSlider = () => {
       </div>
       <div className={classes.eventmaindiv}>
         <Link href="events" className={classes.imagediv}>
-          <Image style={{ cursor: 'pointer' }} alt="eventabcde" src={recuritment24img} objectFit="cover" className={classes.posterimage} />
+          <Image style={{ cursor: 'pointer' }} alt="eventabcde" src={dsaBootcamp} objectFit="cover" className={classes.posterimage} />
         </Link>
         <div className={classes.eventcontentdiv}>
           <h1>
-          Recuritment for batch <span>2k24 (Phase 1)</span>
+            DSA Bootcamp <span>2025</span>
           </h1>
           <h3>
-            Where Ideas Turn into Code: Join us for an Amazing Coding Journey ahead.
+            Level up your Data Structures & Algorithms: Join our intensive coding bootcamp.
           </h3>
           <Link href="events">
             <button className={classes.btn}>
