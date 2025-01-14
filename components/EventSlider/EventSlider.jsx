@@ -30,7 +30,7 @@ const EventSlider = () => {
         </Link>
         <div className={classes.eventcontentdiv}>
           <h1>
-            DSA Bootcamp <span>2025</span>
+            DSA Bootcamp <span>2024</span>
           </h1>
           <h3>
             Level up your Data Structures & Algorithms: Join our intensive coding bootcamp.
