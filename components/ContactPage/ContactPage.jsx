@@ -47,10 +47,10 @@ const Contact = () => {
       <div className={classes.contactPerson}>
         <div>
           <p>
-            <strong>Name:</strong> Atharva Muley
+            <strong>Name:</strong> Aaryan Palve
           </p>
           <p>
-            <strong>Phone Number:</strong> 99216 59885
+            <strong>Phone Number:</strong> +91 9322355783
           </p>
         </div>
       </div>

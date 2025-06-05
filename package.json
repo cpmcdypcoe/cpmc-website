@@ -27,7 +27,7 @@
     "react-toastify": "^9.0.3",
     "sharp": "^0.33.4",
     "swiper": "^8.2.4",
-    "three": "^0.141.0"
+    "three": "^0.168.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",

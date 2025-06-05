@@ -5,10 +5,6 @@ import down_arrow from '../assets/downArrow.svg';
 import Logo from '../assets/CPMC.svg';
 import classes from './LandingSlide.module.css';
 
-import { AmbientLight } from 'three';
-import { Canvas } from '@react-three/fiber';
-import { OrbitControls } from '@react-three/drei';
-
 const LandingSlide = () => {
   return (
     <>
