@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import { Footer, Navbar, TeamPage } from '../../components';
+import { Footer, Navbar } from '../../components';
 import styles from '../../styles/Home.module.css';
-import Team2K24Page from '../../components/TeamPage/Team2k24';
+import Team2K25Page from '../../components/TeamPage/Team2k25';
 import Teams from '../../components/Teams/Teams';
 
 const Team = () => {
@@ -20,7 +20,7 @@ DYPCOE, Pune."
       </Head>
       <Navbar />
       <Teams />
-      <TeamPage />
+      <Team2K25Page />
       <Footer />
     </>
   );

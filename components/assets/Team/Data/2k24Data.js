@@ -41,7 +41,7 @@ import tejas from '../Data/members/tejas.jpeg'
 
 export const Admiral = [
   {
-    name: 'Atharv Mulay',
+    name: 'Atharva Muley',
     position: 'Admiral',
     class: '(BE-IT)',
     photo: atharvsir,
