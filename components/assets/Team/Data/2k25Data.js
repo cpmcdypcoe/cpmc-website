@@ -201,7 +201,7 @@ export const gunnersAndCummunity = [
     position: 'Gunner',
     class: '(TE-AIDS)',
     photo: atharvaDarpude,
-    linkedin: 'https://www.linkedin.com/in/atharva-darpude-bb07231b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+    linkedin: 'https://www.linkedin.com/in/atharva-darpude-bb07231b7/',
     instagram: 'https://www.instagram.com/atharw.143/profilecard/?igsh=MWEybWt2OW1sand5bQ==',
     github: 'https://github.com/Atharvadarpude22'
   },
@@ -219,7 +219,7 @@ export const gunnersAndCummunity = [
     position: 'Gunner',
     class: '(TE-IT)',
     photo: ramManza,
-    linkedin: 'https://www.linkedin.com/in/ramkumar-manza-0150a4294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+    linkedin: 'https://www.linkedin.com/in/ramkumar-manza-0150a4294/',
     instagram: 'https://www.instagram.com/ram_manza?igsh=MW9pejJwaXZvNmp6Yg==',
     github: 'https://github.com/rammanza'
   },
@@ -264,7 +264,7 @@ export const gunnersAndCummunity = [
     position: 'Community Member',
     class: '(TE-AIDS)',
     photo: yashKhule,
-    linkedin: 'https://www.linkedin.com/in/yash-khule-0140752a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+    linkedin: 'https://www.linkedin.com/in/yash-khule-0140752a5/',
     instagram: 'https://www.instagram.com/ricordo_romantico_11?igsh=eHA2cjc4dmhhYmRn',
     github: 'https://github.com/Yashkhule-11'
   },
