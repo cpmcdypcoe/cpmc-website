@@ -150,7 +150,7 @@ export const commander = [
     name: 'Shailesh Gurule',
     position: 'Commander',
     class: '(BE-CS)',
-    photo: sailesh,
+    photo: shailesh,
     linkedin: '',
     instagram: '',
     github: ''
