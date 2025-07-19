@@ -15,7 +15,7 @@ import jagdish from '../../../assets/Team/Team2025/Commanders/JagdishRaut.jpg';
 import kishor from '../../../assets/Team/Team2025/Commanders/KishorMote.png';
 import mokshad from '../../../assets/Team/Team2025/Commanders/MokshadPatil.jpg';
 import rohan from '../../../assets/Team/Team2025/Commanders/RohanMulik.jpg';
-import sailesh from '../../../assets/Team/Team2025/Commanders/shailesh.jpg';
+import shailesh from '../../../assets/Team/Team2025/Commanders/shailesh.jpg';
 import parthMagar from '../../../assets/Team/Team2025/Commanders/ParthMagar.jpg';
 
 //gunners
@@ -147,7 +147,7 @@ export const commander = [
     github: ''
   },
   {
-    name: 'Sailesh Gurule',
+    name: 'Shailesh Gurule',
     position: 'Commander',
     class: '(BE-CS)',
     photo: sailesh,
