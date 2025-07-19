@@ -39,6 +39,8 @@ import tushar from '../../../assets/Team/Team2025/Gunners/Tushar.jpg';
 import adityaGorane from '../../../assets/Team/Team2025/Gunners/AdityaGorane.jpg';
 import vedantWanare from '../../../assets/Team/Team2025/Gunners/VedantWanare.jpg';
 import sampadaWaghode from '../../../assets/Team/Team2025/Gunners/SampadaWaghode.jpg';
+import sejalPawar from '../../../assets/Team/Team2025/Gunners/SejalPawar.jpg';
+
 
 //community
 import yashKhule from '../../../assets/Team/Team2025/Gunners/CommunityMembers/Yash_Khule.jpg';
@@ -225,7 +227,7 @@ export const gunnersAndCummunity = [
     name: 'Sejal S Pawar',
     position: 'Gunner',
     class: '(TE-AIDS)',
-    photo: rohan,
+    photo: sejalPawar,
     linkedin: 'https://www.linkedin.com/in/sejal-pawar-5512032a0',
     instagram: 'https://www.instagram.com/sejal_.1704',
     github: 'https://github.com/Sejal1711'
@@ -397,7 +399,7 @@ export const gunnersAndCummunity = [
   },
   {
     //remaining
-    name: 'Dhyan Jaadhao',
+    name: 'Dhyan Jadhao',
     position: 'Community Member',
     class: '(TE-AIDS)',
     photo: dhyanJadhao,
