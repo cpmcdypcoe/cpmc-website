@@ -18,7 +18,7 @@ DYPCOE, Pune."
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <Team2K24Page />
+      <Team2K23Page />
       <Footer />
     </>
   );
