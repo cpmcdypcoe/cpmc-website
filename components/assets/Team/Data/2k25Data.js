@@ -74,7 +74,7 @@ export const Admiral = [
   {
     name: 'Aaryan Palve',
     position: 'Admiral',
-    class: '(BE-AIDS)',
+    class: '(BE-AI&DS)',
     photo: aaryanPalve,
     linkedin: 'https://www.linkedin.com/in/aaryan-palve-6124372b7/',
     instagram: 'https://www.instagram.com/aaryanpalve2004/?hl=en',
@@ -85,7 +85,7 @@ export const ViceAdmmiral = [
   {
     name: 'Uday Bhole',
     position: 'Vice-Admiral',
-    class: '(BE-AIDS)',
+    class: '(BE-AI&DS)',
     photo: udayBhole,
     linkedin: 'https://www.linkedin.com/in/uday-bhole/',
     instagram: 'https://www.instagram.com/_u_dayyy/?hl=en',
@@ -106,7 +106,7 @@ export const commander = [
   {
     name: 'Parth Mgar',
     position: 'Commander',
-    class: '(BE-AIDS)',
+    class: '(BE-AI&DS)',
     photo: parthMagar,
     linkedin: 'https://www.linkedin.com/in/parth-magar-339044288/',
     instagram: '',
@@ -160,7 +160,7 @@ export const commander = [
   {
     name: 'Abhay Walunj',
     position: 'Commander',
-    class: '(BE-E&TC)',
+    class: '(BE-CS)',
     photo: abhay,
     linkedin: '',
     instagram: '',
@@ -169,7 +169,7 @@ export const commander = [
   {
     name: 'Omkar Shinde',
     position: 'Commander',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: omkar,
     linkedin: '',
     instagram: '',
@@ -190,7 +190,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Harshadsai Badagu',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: harshadsaiBadagu,
     linkedin: 'https://www.linkedin.com/in/harshadsai-badagu/',
     instagram: 'https://www.instagram.com/the_harshad_stories?igsh=dXpvenRhNzlrZGg3',
@@ -199,7 +199,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Atharva Darpude',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: atharvaDarpude,
     linkedin: 'https://www.linkedin.com/in/atharva-darpude-bb07231b7/',
     instagram: 'https://www.instagram.com/atharw.143/profilecard/?igsh=MWEybWt2OW1sand5bQ==',
@@ -226,7 +226,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Sejal S Pawar',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: sejalPawar,
     linkedin: 'https://www.linkedin.com/in/sejal-pawar-5512032a0',
     instagram: 'https://www.instagram.com/sejal_.1704',
@@ -244,7 +244,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Sampada Waghode',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: sampadaWaghode,
     linkedin: 'https://www.linkedin.com/in/sampada0214/',
     instagram: 'https://www.instagram.com/beaut_yandbeast23',
@@ -262,7 +262,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Yash Khule',
     position: 'Community Member',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: yashKhule,
     linkedin: 'https://www.linkedin.com/in/yash-khule-0140752a5/',
     instagram: 'https://www.instagram.com/ricordo_romantico_11?igsh=eHA2cjc4dmhhYmRn',
@@ -271,7 +271,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Abhijeet Mekhe',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: abhijeetMekhe,
     linkedin: '',
     instagram: '',
@@ -280,7 +280,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Aditya',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: aditya,
     linkedin: '',
     instagram: '',
@@ -289,7 +289,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Aditya Darade',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: adityaDarade,
     linkedin: '',
     instagram: '',
@@ -298,7 +298,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Anisha',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: anisha,
     linkedin: '',
     instagram: '',
@@ -325,7 +325,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Aayush Padhy',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: aayusPadhy,
     linkedin: '',
     instagram: '',
@@ -334,7 +334,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Bharat Patil',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: bharatPatil,
     linkedin: '',
     instagram: '',
@@ -343,7 +343,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Chaitanya Mardan',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: chaitanyaMardane,
     linkedin: '',
     instagram: '',
@@ -352,7 +352,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Pranali Naphade',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: pranaliNaphade,
     linkedin: '',
     instagram: '',
@@ -361,7 +361,7 @@ export const gunnersAndCummunity = [
   {
     name: 'Satyam Jadhav',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: satyamJadhav,
     linkedin: '',
     instagram: '',
@@ -371,7 +371,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Shambhuraj',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: shambhuraj,
     linkedin: '',
     instagram: '',
@@ -381,7 +381,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Shruti Mane',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: shrutiMane,
     linkedin: '',
     instagram: '',
@@ -391,7 +391,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Tushar',
     position: 'Gunner',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: tushar,
     linkedin: '',
     instagram: '',
@@ -401,7 +401,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Dhyan Jadhao',
     position: 'Community Member',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: dhyanJadhao,
     linkedin: '',
     instagram: '',
@@ -411,7 +411,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Jugal Rathod',
     position: 'Community Member',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: jugalRathod,
     linkedin: '',
     instagram: '',
@@ -421,7 +421,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Swara Bangale',
     position: 'Community Member',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: swaraBangale,
     linkedin: '',
     instagram: '',
@@ -431,7 +431,7 @@ export const gunnersAndCummunity = [
     //remaining
     name: 'Varsha Parhad',
     position: 'Community Member',
-    class: '(TE-AIDS)',
+    class: '(TE-AI&DS)',
     photo: varshaParhad,
     linkedin: '',
     instagram: '',
