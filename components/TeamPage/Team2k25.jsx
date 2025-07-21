@@ -2,7 +2,7 @@ import React from 'react';
 import classes from './tp.module.css';
 import Card from './Card';
 import mannu from '../assets/mannu.jpeg';
-import team from '../assets/Team/Team2k24.jpg'
+import team from '../assets/Team/CPMC2k24.jpg'
 import { Admiral, Advisors, commander, ViceAdmmiral, gunnersAndCummunity } from '../assets/Team/Data/2k25Data.js';
 import Image from 'next/image';
 
